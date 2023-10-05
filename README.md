@@ -1,14 +1,15 @@
 # Roblox Scripts
 
-This houses a few of the Roblox scripts (luau) I have released to the public. Mainly, these serve just as examples of work, so I have not included the majority of the ones I have put out there.
 
-_**GamepadSwordFighting**_ is a script that makes it easier for someone to sword fight on Roblox while using a gamepad; it gives them the ability to autoclick and shiftlock, amongst other things.
+This repository showcases a selection of my publicly released Roblox scripts written in Luau. While it doesn't encompass the entirety of my work, these scripts serve as illustrative examples.
 
-_**ChatTags**_ is a script that allows a player to have a tag when they chat, showing a Roblox group rank.
+_**GamepadSwordFighting:**_ Simplifies sword fighting on Roblox by providing gamepad users with features like autoclick and shiftlock, enhancing the gameplay experience.
 
-_**KeyBinds**_ is a script that gives a player two keybinds: one to play a salute animation and one to play an at-ease animation.
+_**ChatTags:**_ Empowers players to display a Roblox group rank tag when they chat, adding a visual element to their in-game presence.
 
-_**OwnerTag**_ is a script that will give a Roblox private server owner a chat tag stating they are the private server owner.
+_**KeyBinds:**_ Offers players the convenience of two keybinds, enabling them to trigger a salute animation and an at-ease animation with ease.
 
-_**Logger**_ is a script that will log when a player joins, it will then use a Discord Webhook API to then relay that log to a discord server.
+_**OwnerTag:**_ Provides private server owners on Roblox with a distinctive chat tag, highlighting their role as the server's proprietor.
+
+_**Logger:**_ Keeps track of player joins and utilizes the Discord Webhook API to relay this information to a designated Discord server, enhancing server administration and communication.
 

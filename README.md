@@ -1,7 +1,7 @@
 # Roblox Scripts
 
 
-This repository showcases a selection of my publicly released Roblox scripts written in Luau. While it doesn't encompass the entirety of my work, these scripts serve as illustrative examples.
+This repository showcases a selection of my publicly released Roblox scripts written in Luau. While it doesn't encompass the entirety of my work, these scripts serve as previous work examples.
 
 _**GamepadSwordFighting:**_ Simplifies sword fighting on Roblox by providing gamepad users with features like autoclick and shiftlock, enhancing the gameplay experience.
 
